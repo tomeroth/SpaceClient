@@ -1,0 +1,5 @@
+c:\users\tomek\documents\visual studio 2015\Projects\SpaceClient\SpaceClient\bin\Debug\SpaceClient.exe.config
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\SpaceClient\SpaceClient\bin\Debug\SpaceClient.exe
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\SpaceClient\SpaceClient\bin\Debug\SpaceClient.pdb
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\SpaceClient\SpaceClient\obj\Debug\SpaceClient.exe
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\SpaceClient\SpaceClient\obj\Debug\SpaceClient.pdb
